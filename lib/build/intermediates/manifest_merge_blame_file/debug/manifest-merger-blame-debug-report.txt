@@ -1,0 +1,26 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.github.weiggle.drawable" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->/Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="32" />
+7-->/Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml
+8
+9    <application
+9-->/Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml:5:5-11:55
+10        android:allowBackup="true"
+10-->/Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml:6:9-35
+11        android:icon="@mipmap/ic_launcher"
+11-->/Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml:7:9-43
+12        android:label="@string/app_name"
+12-->/Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml:8:9-41
+13        android:roundIcon="@mipmap/ic_launcher_round"
+13-->/Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml:9:9-54
+14        android:supportsRtl="true"
+14-->/Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml:10:9-35
+15        android:theme="@style/Theme.DrawableSample" />
+15-->/Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml:11:9-52
+16
+17</manifest>

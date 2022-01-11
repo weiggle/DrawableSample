@@ -1,0 +1,193 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.databinding:viewbinding:7.1.0-beta04] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/6bf52f68e3bac111de907d7770e02085/transformed/viewbinding-7.1.0-beta04/AndroidManifest.xml:17:1-24:12
+MERGED from [:lib] /Users/liwei/AndroidStudioProjects/DrawableSample/lib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/e06dc0b26ddf91acc8df4646e92abf7a/transformed/core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/04b48e07d671eab5e67c4aeafd7bbbbf/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/80207c595374132a2e14a5ac4a83605a/transformed/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/87aec4c8240e50be8451af327bfaf4d0/transformed/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/d5c78dbfb0cb020d859d85503001d974/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/24ab9df7b2a9e6ddffb7ced7e6d5cbfe/transformed/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/3d035371c9d64fab6ca4871c559fb992/transformed/activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/e3408d01fe95d8a800b3fd8d6a3748fd/transformed/appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/5ea4fdeff05debeaa69038be54cd840d/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/9574a03e4bfd6ce2eac87db2f1e5f66f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/ab7eb3b809e1dcc9930e70a42b381812/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/4ca69277d226c21f04893b29c0b7e63d/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/02a4e8df9174fff838a1265812234e23/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/cebb2ba5574fb9053061d74b1be82a54/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/d603d5fc0cfae2f222bef16c06790eb8/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/b4433ec06039d5c67b65dda3a84a879c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/41cc5954855eba62c69a8847805f874e/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/4113afaf88a2e88cf2acd632311b4b58/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/690f49a0cdde652bfc1ff027c013e25e/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/e3457a37e3f5ad9d3ddbaebf55167238/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/653f0da1f644214b386c007ec5fbe283/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/fda8d4de29fb7c5a6eb74d361c90cbfe/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/8c39fcb7ae6a6c9d8029a44222328a90/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/c0004fd47dac91dae2fe579abe22c79c/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/55e4657a15f13c60b80cb8c999095824/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/cf2ee912ecbdf00a39514cd4b2d45923/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/57608c7e3e9b7ebcd6e84e91ae767bec/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/d320133c96fb33763d47985517c6ece3/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/20aa1ef6f73b5a7546115016f7541716/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/a7952e1cea197617a8f7a7436ca70bca/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/6b9126da79c6e93a55df2b5985e914c9/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/11888acaf9c8e9d1b457e3b80efc7ab2/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/882e5350f346e64f8356eddabcf9fabc/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/373bad518c84df9d00713faeb70d0970/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/b52948791c83ae4778d273ea9fb8e04c/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/f6ff806365ab724c33f9b784f1629717/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [:lib] /Users/liwei/AndroidStudioProjects/DrawableSample/lib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:55
+MERGED from [:lib] /Users/liwei/AndroidStudioProjects/DrawableSample/lib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-15:55
+MERGED from [com.google.android.material:material:1.4.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/04b48e07d671eab5e67c4aeafd7bbbbf/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/04b48e07d671eab5e67c4aeafd7bbbbf/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/80207c595374132a2e14a5ac4a83605a/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/80207c595374132a2e14a5ac4a83605a/transformed/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.7.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/e3457a37e3f5ad9d3ddbaebf55167238/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/e3457a37e3f5ad9d3ddbaebf55167238/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/57608c7e3e9b7ebcd6e84e91ae767bec/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/57608c7e3e9b7ebcd6e84e91ae767bec/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/e3457a37e3f5ad9d3ddbaebf55167238/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:11:9-52
+activity#com.github.weiggle.MainActivity
+ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:12:9-20:20
+	android:exported
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.1.0-beta04] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/6bf52f68e3bac111de907d7770e02085/transformed/viewbinding-7.1.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.0-beta04] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/6bf52f68e3bac111de907d7770e02085/transformed/viewbinding-7.1.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [:lib] /Users/liwei/AndroidStudioProjects/DrawableSample/lib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:lib] /Users/liwei/AndroidStudioProjects/DrawableSample/lib/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/e06dc0b26ddf91acc8df4646e92abf7a/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/e06dc0b26ddf91acc8df4646e92abf7a/transformed/core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/04b48e07d671eab5e67c4aeafd7bbbbf/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/04b48e07d671eab5e67c4aeafd7bbbbf/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/80207c595374132a2e14a5ac4a83605a/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/80207c595374132a2e14a5ac4a83605a/transformed/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/87aec4c8240e50be8451af327bfaf4d0/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/87aec4c8240e50be8451af327bfaf4d0/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/d5c78dbfb0cb020d859d85503001d974/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/d5c78dbfb0cb020d859d85503001d974/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/24ab9df7b2a9e6ddffb7ced7e6d5cbfe/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/24ab9df7b2a9e6ddffb7ced7e6d5cbfe/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/3d035371c9d64fab6ca4871c559fb992/transformed/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/3d035371c9d64fab6ca4871c559fb992/transformed/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/e3408d01fe95d8a800b3fd8d6a3748fd/transformed/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/e3408d01fe95d8a800b3fd8d6a3748fd/transformed/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/5ea4fdeff05debeaa69038be54cd840d/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/5ea4fdeff05debeaa69038be54cd840d/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/9574a03e4bfd6ce2eac87db2f1e5f66f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/9574a03e4bfd6ce2eac87db2f1e5f66f/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/ab7eb3b809e1dcc9930e70a42b381812/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/ab7eb3b809e1dcc9930e70a42b381812/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/4ca69277d226c21f04893b29c0b7e63d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/4ca69277d226c21f04893b29c0b7e63d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/02a4e8df9174fff838a1265812234e23/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/02a4e8df9174fff838a1265812234e23/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/cebb2ba5574fb9053061d74b1be82a54/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/cebb2ba5574fb9053061d74b1be82a54/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/d603d5fc0cfae2f222bef16c06790eb8/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/d603d5fc0cfae2f222bef16c06790eb8/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/b4433ec06039d5c67b65dda3a84a879c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/b4433ec06039d5c67b65dda3a84a879c/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/41cc5954855eba62c69a8847805f874e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/41cc5954855eba62c69a8847805f874e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/4113afaf88a2e88cf2acd632311b4b58/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/4113afaf88a2e88cf2acd632311b4b58/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/690f49a0cdde652bfc1ff027c013e25e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/690f49a0cdde652bfc1ff027c013e25e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/e3457a37e3f5ad9d3ddbaebf55167238/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/e3457a37e3f5ad9d3ddbaebf55167238/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/653f0da1f644214b386c007ec5fbe283/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/653f0da1f644214b386c007ec5fbe283/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/fda8d4de29fb7c5a6eb74d361c90cbfe/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/fda8d4de29fb7c5a6eb74d361c90cbfe/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/8c39fcb7ae6a6c9d8029a44222328a90/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/8c39fcb7ae6a6c9d8029a44222328a90/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/c0004fd47dac91dae2fe579abe22c79c/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/c0004fd47dac91dae2fe579abe22c79c/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/55e4657a15f13c60b80cb8c999095824/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/55e4657a15f13c60b80cb8c999095824/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/cf2ee912ecbdf00a39514cd4b2d45923/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/cf2ee912ecbdf00a39514cd4b2d45923/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/57608c7e3e9b7ebcd6e84e91ae767bec/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/57608c7e3e9b7ebcd6e84e91ae767bec/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/d320133c96fb33763d47985517c6ece3/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/d320133c96fb33763d47985517c6ece3/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/20aa1ef6f73b5a7546115016f7541716/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/20aa1ef6f73b5a7546115016f7541716/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/a7952e1cea197617a8f7a7436ca70bca/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/a7952e1cea197617a8f7a7436ca70bca/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/6b9126da79c6e93a55df2b5985e914c9/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/6b9126da79c6e93a55df2b5985e914c9/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/11888acaf9c8e9d1b457e3b80efc7ab2/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/11888acaf9c8e9d1b457e3b80efc7ab2/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/882e5350f346e64f8356eddabcf9fabc/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/882e5350f346e64f8356eddabcf9fabc/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/373bad518c84df9d00713faeb70d0970/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/373bad518c84df9d00713faeb70d0970/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/b52948791c83ae4778d273ea9fb8e04c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/b52948791c83ae4778d273ea9fb8e04c/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/f6ff806365ab724c33f9b784f1629717/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/liwei/gradle/gradle-5.6.4/bin/caches/transforms-3/f6ff806365ab724c33f9b784f1629717/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/app/src/main/AndroidManifest.xml

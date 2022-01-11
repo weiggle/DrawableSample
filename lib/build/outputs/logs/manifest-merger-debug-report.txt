@@ -1,0 +1,39 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml
+		INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml:5:5-11:55
+	android:supportsRtl
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml:11:9-52
+uses-sdk
+INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml
+INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml
+INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml
+INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml
+		INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml
+		ADDED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml
+		INJECTED from /Users/liwei/AndroidStudioProjects/DrawableSample/lib/src/main/AndroidManifest.xml
