@@ -1,6 +1,8 @@
 plugins {
     id 'com.android.library'
     id 'org.jetbrains.kotlin.android'
+    id 'maven-publish'
+    id 'signing'
 }
 
 android {
@@ -25,7 +27,79 @@ android {
         targetCompatibility JavaVersion.VERSION_11
     }
     kotlinOptions {
-        jvmTarget =  JavaVersion.VERSION_11
+        jvmTarget = JavaVersion.VERSION_11
+    }
+}
+
+task sourceJar(type: Jar) {
+    from android.sourceSets.main.java.srcDirs
+    classifier "sources"
+}
+
+group = GROUP
+archivesBaseName = ARTIFACT_ID
+version = VERSION
+
+
+afterEvaluate {
+    publishing {
+        publications {
+            maven(MavenPublication) {
+//                from components.release
+                groupId = GROUP
+                artifactId = ARTIFACT_ID
+                version = VERSION
+
+                // aar
+//                afterEvaluate { artifact(tasks.getByName("bundleReleaseAar"))}
+                // 上传source，这样使用方可以看到方法注释
+                artifact(sourceJar)
+                artifact("$buildDir/repo/io/github/weiggle/drawable/1.0.1/drawable.aar")
+
+                pom {
+                    name = 'drawable'
+                    description = ' this is drawable util for Android to instead of xml'
+                    url = 'https://github.com/weiggle/DrawableSample/'
+
+                    scm {
+                        connection = 'scm:git@github.com:weiggle/DrawableSample.git'
+                        developerConnection = 'git@github.com:weiggle/DrawableSample.git'
+                        url = 'https://github.com/weiggle/DrawableSample/'
+                    }
+
+                    licenses {
+                        license {
+                            name = 'The Apache License, Version 2.0'
+                            url = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+                        }
+                    }
+
+                    developers {
+                        developer {
+                            id = 'weiggle'
+                            name = 'wei.li'
+                            email = '1228565493@qq.com'
+                        }
+                    }
+                }
+            }
+        }
+
+        repositories {
+            maven {
+                allowInsecureProtocol = true
+                url "https://s01.oss.sonatype.org/service/local/staging/deploy/maven2/"
+                credentials {
+                    username = ossrhUsername
+                    password = ossrhPassword
+                }
+//                url "$buildDir/repo"
+            }
+        }
+    }
+
+    signing {
+        sign publishing.publications.maven //签名配置
     }
 }
 
